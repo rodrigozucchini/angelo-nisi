@@ -1,0 +1,449 @@
+.bonus-div {
+    background-color: #0E3066;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+.title-bonus {
+    margin-top: 100px;
+    color: #F5d757;
+    text-align: center;
+    font-weight: 900;
+    font-family: 'Nunito', sans-serif;
+    font-size: 50px;
+    text-transform: uppercase;
+    padding: 29px 30px 0px;
+    text-shadow: 0px 0px 5px #508AD3;
+}
+
+.primer-bonus {
+    margin-left: 280px;    
+    margin-top: 50px; 
+    margin-bottom: 80px; 
+    margin-right: 280px; 
+    color: #F2F2F0;
+    font-size: 30px;
+    font-weight: 600;
+    font-family: 'Nunito', sans-serif;
+    border-radius: 5px;
+    text-align: justify;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.freedom {
+    width: 100%;
+    height: 100%;
+    background-color: #0E3066;
+    padding-bottom: 100px;
+}
+
+.img-freedom {    
+    width: 966,6px;
+    height: 500px;
+    float: left;
+    border-radius: 5px;
+    margin-left: 150px;
+    margin-right: 0;
+    margin-top: 0;
+    padding-top: 0;
+}
+
+.freedom-text { 
+    padding-top: 70px;
+    margin-right: 280px; 
+    margin-left: 280px; 
+    color: white;
+    font-size: 26px;
+    font-weight: 500;
+    font-family: 'Nunito', sans-serif;
+    line-height: 1.5;
+    border-radius: 5px;
+    text-align: left;
+    text-shadow: 0px 0px 5px #508AD3;
+}
+
+.title-freedom {
+    color: #F5d757;
+    text-align: center;
+    font-weight: 900;
+    font-family: 'Nunito', sans-serif;
+    font-size: 40px;
+    text-transform: uppercase;
+    padding-top: 29px;
+    padding-bottom: 50px;
+    text-shadow: 0px 0px 5px #508AD3;
+}
+
+.cash {
+    width: 100%;
+    height: 100%;
+    background-color: #0E3066;
+    padding-bottom: 100px;
+}
+
+.img-cash {    
+    width: 966,6px;
+    height: 500px;
+    float: left;
+    border-radius: 5px;
+    margin-left: 150px;
+    margin-right: 0;
+    margin-top: 0;
+    padding-top: 0;
+}
+
+.cash-text {
+    margin-left: 280px;    
+    padding-top: 70px;
+    margin-right: 280px; 
+    color: white;
+    font-size: 26px;
+    font-weight: 500;
+    font-family: 'Nunito', sans-serif;
+    line-height: 1.5;
+    border-radius: 5px;
+    text-align: left;
+    text-shadow: 0px 0px 5px #508AD3;
+}
+
+.title-cash {
+    color: #F5d757;
+    text-align: center;
+    font-weight: 900;
+    font-family: helvetica,sans-serif;
+    font-size: 40px;
+    text-transform: uppercase;
+    padding-top: 29px;
+    padding-bottom: 50px;
+    text-shadow: 0px 0px 5px #508AD3;
+}
+
+.ebook {
+    width: 100%;
+    height: 100%;
+    background-color: #0E3066;
+    padding-bottom: 100px;
+}
+
+.img-ebook {    
+    margin-left: 350px;
+    margin-right: 310px;
+    width: 385px;
+    height: 605px;
+    float: left;
+    border-radius: 5px;
+    margin-top: 50px;
+    padding-top: 0;
+}
+
+.ebook-text {
+    margin-left: 0;
+    padding-left: 0;    
+    padding-top: 70px;
+    margin-right: 280px; 
+    color: white;
+    font-size: 26px;
+    font-weight: 500;
+    font-family: 'Nunito', sans-serif;
+    line-height: 1.5;
+    border-radius: 5px;
+    text-align: left;
+    text-shadow: 0px 0px 5px #508AD3;
+}
+
+.title-ebook {
+    color: #F5d757;
+    text-align: center;
+    font-weight: 900;
+    font-family: helvetica,sans-serif;
+    font-size: 40px;
+    text-transform: uppercase;
+    padding: 29px 30px 0px;
+    text-shadow: 0px 0px 5px #508AD3;
+}
+
+@media only screen and (max-width: 1810px) {
+    .freedom {
+        display: flex;
+        flex-direction: column;
+    }
+    .primer-bonus {
+        font-size: 22px;
+    }
+
+    .img-freedom {    
+        width: 90%;
+        height: auto;
+        align-self: center;
+        justify-self: center;
+        float: center;
+        padding: 0;
+        margin-left: 0;
+        margin-right: 0;
+        margin-top: 0;
+    }
+    
+    .freedom-text {
+        padding-top: 70px;
+        margin-right: 280px; 
+        margin-left: 280px; 
+        color: white;
+        font-size: 26px;
+        text-align: center;
+    }
+
+    .cash {
+        display: flex;
+        flex-direction: column;
+    }
+    
+    .img-cash {    
+        width: 90%;
+        height: auto;
+        align-self: center;
+        justify-self: center;
+        float: center;
+        padding: 0;
+        margin-left: 0;
+        margin-right: 0;
+        margin-top: 0;
+    }
+    
+    .cash-text {
+        padding-top: 70px;
+        margin-right: 280px; 
+        margin-left: 280px; 
+        color: white;
+        font-size: 26px;
+        text-align: center;
+    }
+
+    .ebook {
+        display: flex;
+        flex-direction: column;
+    }
+    
+    .img-ebook {    
+        width: 35%;
+        height: auto;
+        align-self: center;
+        justify-self: center;
+        float: center;
+        padding-top: 100px;
+        margin-left: 0;
+        margin-right: 0;
+        margin-top: 0;
+    }
+    
+    .ebook-text {
+        padding-top: 70px;
+        margin-right: 280px; 
+        margin-left: 280px; 
+        color: white;
+        font-size: 26px;
+        text-align: center;
+    }
+}
+
+@media only screen and (max-width: 1205px) {
+    .primer-bonus {
+        margin-left: 100px;    
+        margin-right: 100px; 
+    }
+    .title-bonus {
+        margin-top: 0;
+    }
+    .freedom {
+        padding-bottom: 50px;
+    }   
+    
+    .freedom-text { 
+        padding-top: 30px;
+    }
+    
+    .title-freedom {
+        padding-bottom: 20px;
+    }
+    
+    .freedom-text {
+        margin-right: 100px; 
+        margin-left: 100px; 
+    }
+
+    .cash-text {
+        margin-right: 100px; 
+        margin-left: 100px; 
+    }
+
+    .cash-text {
+        padding-top: 30px;
+    }
+    
+    .title-cash {
+        margin-left: 20px;    
+    }
+    
+    .cash {
+        padding-bottom: 40px;
+    }
+
+    .ebook-text {
+        margin-right: 100px; 
+        margin-left: 100px; 
+    }
+}
+
+@media only screen and (max-width: 950px) {
+    .title-bonus {
+        font-size: 40px;
+    }
+    
+    .primer-bonus {
+        font-size: 22px;
+    }
+        
+    
+    .freedom-text { 
+        font-size: 22px;
+    }
+    
+    .title-freedom {
+        font-size: 35px;
+    }
+   
+    .cash-text {
+        font-size: 22px;
+    }
+    
+    .title-cash {
+        font-size: 35px;
+    }
+   
+    .ebook-text {
+        font-size: 22px;
+    }
+    
+    .title-ebook {
+        font-size: 35px;
+    }
+}
+
+@media only screen and (max-width: 850px) {
+    .title-bonus {
+        font-size: 35px;
+    }
+    
+    .primer-bonus {
+        font-size: 18px;
+        margin-left: 50px;    
+        margin-right: 50px; 
+    }
+        
+    
+    .freedom-text { 
+        font-size: 22px;
+        margin-left: 50px;    
+        margin-right: 50px; 
+    }
+    
+    .title-freedom {
+        font-size: 30px;
+        margin-left: 50px;    
+        margin-right: 50px; 
+    }
+   
+    .cash-text {
+        font-size: 22px;
+        margin-left: 50px;    
+        margin-right: 50px; 
+    }
+    
+    .title-cash {
+        font-size: 30px;
+        margin-left: 50px;    
+        margin-right: 50px; 
+    }
+   
+    .ebook-text {
+        font-size: 22px;
+        margin-left: 50px;    
+        margin-right: 50px; 
+    }
+    
+    .title-ebook {
+        font-size: 30px;
+        margin-left: 50px;    
+        margin-right: 50px; 
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    .title-bonus {
+        font-size: 30px;
+    }
+    
+    .primer-bonus {
+        font-size: 18px;
+        margin-left: 20px;    
+        margin-right: 20px; 
+    }
+ 
+    
+    .freedom-text { 
+        font-size: 18px;
+        margin-left: 20px;    
+        margin-right: 20px; 
+    }
+    
+    .title-freedom {
+        font-size: 25px;
+        margin-left: 20px;    
+        margin-right: 20px; 
+    }
+   
+    .cash-text {
+        font-size: 18px;
+        margin-left: 20px;    
+        margin-right: 20px; 
+    }
+    
+    .title-cash {
+        font-size: 30px;
+        margin-left: 20px;    
+        margin-right: 20px; 
+    }
+    
+
+   .ebook {
+        padding-bottom: 40px;
+   }
+    .ebook-text {
+        padding-top: 30px;
+        font-size: 18px;
+        margin-left: 20px;    
+        margin-right: 20px; 
+    }
+    
+    .title-ebook {
+        font-size: 25px;
+        margin-left: 20px;    
+        margin-right: 20px; 
+        padding-bottom: 20px;
+    }
+
+    .img-freedom {    
+        width: 100%;
+    }
+
+    .img-ebook {    
+        width: 50%;
+        margin-top: 10px; 
+    }
+
+    .img-cash {    
+        width: 100%;
+        margin-top: 10px; 
+    }
+}

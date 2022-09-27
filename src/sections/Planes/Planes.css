@@ -1,0 +1,170 @@
+.back-card {
+    background-color: #F2F2F0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.card {
+    background-color: #fafafa;
+    width: 300px;
+    height: 350px;
+    margin: 40px;
+    border-radius: 3px;
+    text-align: center;
+    border: 1px solid black;
+}
+.card-text {
+    padding-top: 10px;
+    margin: 0;
+    color: black;
+    font-size: 25px;
+    font-weight: 900;
+    font-family: helvetica,sans-serif;
+}
+
+.card-calendary {
+    text-align: center;
+    padding-top: 25px;
+    margin: 0;
+    color: grey;
+    font-size: 18px;
+    font-weight: 500;
+    font-family: helvetica,sans-serif;
+    line-height: 140%;
+    text-transform: uppercase;
+}
+
+.card-calendary b{
+    font-weight: 900;
+}
+
+.card-price {
+    padding-top: 30px;
+    margin: 0;
+    color: #ff0000;
+    font-size: 40px;
+    text-align: center;
+    font-weight: 900;
+    font-family: helvetica,sans-serif;
+    text-decoration:line-through;
+}
+
+.card-price-yes {
+    padding-top: 20px;
+    margin: 0;
+    color: #ff0000;
+    font-size: 40px;
+    text-align: center;
+    font-weight: 900;
+    font-family: helvetica,sans-serif;
+}
+
+.card-div-button {
+    padding-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+.card-button {
+    border: none;
+    width: 200px;
+    height: 70px;
+    background-color: #BDBEBF;
+    text-transform: uppercase;
+    font-weight: 900;
+    color: #3F3F40;
+}
+
+.card-button-yes {
+    background-color: #ff0000;
+    border: none;
+    width: 200px;
+    height: 70px;
+    text-transform: uppercase;
+    font-weight: 900;
+    color: #ffffff;
+    cursor: pointer;
+}
+
+.card-mensaje {
+    margin-left: 280px;    
+    margin-top: 50px; 
+    margin-bottom: 100px; 
+    margin-right: 280px; 
+    color: #011126;
+    font-size: 28px;
+    font-weight: 500;
+    font-family: 'Nunito', sans-serif;
+    line-height: 1.5;
+    border-radius: 5px;
+    text-align: justify;
+}
+
+.card-price-yes-3 {
+    padding-top: 40px;
+    margin: 0;
+    color: #068D01;
+    font-size: 50px;
+    text-align: center;
+    font-weight: 900;
+    font-family: helvetica,sans-serif;
+}
+
+.card-button-yes-3 {
+    background-color: #068D01;
+    border: none;
+    width: 200px;
+    padding: 15px;
+    height: auto;
+    text-transform: uppercase;
+    font-weight: 900;
+    color: #ffffff;
+    cursor: pointer;
+}
+
+.card-button-yes-3:hover {
+    background-color: #21FF21;
+}
+
+.card-3 {
+    background-color: #F5d757;
+    width: 350px;
+    height: 400px;
+    margin: 40px;
+    border-radius: 3px;
+    text-align: center;
+    border: 1px solid black;
+    box-shadow: 0px 10px 10px -6px black;
+}
+
+.card-text-3 {
+    padding-top: 20px;
+    margin: 0;
+    color: black;
+    font-size: 30px;
+    font-weight: 900;
+    font-family: helvetica,sans-serif;
+}
+
+@media only screen and (max-width: 1205px) {
+    .card-mensaje {
+        margin-left: 100px;    
+        margin-right: 100px; 
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    .card-mensaje {
+        margin-left: 20px;    
+        margin-right: 20px; 
+        font-size: 20px;
+    }
+
+}
+
+

@@ -1,0 +1,243 @@
+.div-testimonios {
+    background-color: #011126;
+    width: 100%;
+    height: 100%;
+}
+
+.testimonios {
+    background-color: #011126;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.title-testimonios {
+    margin-left: 280px;    
+    margin-right: 280px; 
+    color: white;
+    text-align: center;
+    font-weight: 900;
+    font-family: helvetica,sans-serif;
+    font-size: 40px;
+    text-transform: uppercase;
+    padding: 29px 0 0;
+    text-shadow: 0px 0px 5px #508AD3;
+    margin-bottom: 100px;
+}
+
+
+.testimonio1-img {
+    width: 353px;
+    height: 500px;
+    margin-bottom: 50px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.testimonio2-img {
+    width: 353px;
+    height: 500px;
+    margin-bottom: 50px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.testimonio3-img {
+    width: 353px;
+    height: 500px;
+    margin-bottom: 50px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.testimonio4-img {
+    border-radius: 5px;
+    width: 353px;
+    height: 500px;
+    margin-bottom: 50px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.testimonio5-img {
+    border-radius: 5px;
+    width: 353px;
+    height: 500px;
+    margin-bottom: 50px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+.testimonio6-img {
+    border-radius: 5px;
+    width: 353px;
+    height: 500px;
+    margin-bottom: 50px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+@media only screen and (max-width: 1300px) {
+
+    .testimonios {
+        background-color: #011126;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+    }
+    
+    .title-testimonios {
+        margin-left: 100px;    
+        margin-right: 100px; 
+    }
+
+    .testimonio1-img {
+        width: 353px;
+        height: 500px;
+    }
+
+    .testimonio2-img {
+        width: 353px;
+        height: 500px;
+    }
+
+    .testimonio3-img {
+        width: 353px;
+        height: 500px;
+    }
+
+    .testimonio4-img {
+        border-radius: 5px;
+        width: 353px;
+        height: 500px;
+    }
+
+    .testimonio5-img {
+        border-radius: 5px;
+        width: 353px;
+        height: 500px;
+    }
+
+    .testimonio6-img {
+        border-radius: 5px;
+        width: 353px;
+        height: 500px;
+    }
+
+}
+
+@media only screen and (max-width: 850px) {
+
+    .testimonio1-img {
+        width: 282px;
+        height: 400px;
+    }
+
+    .testimonio2-img {
+        width: 282px;
+        height: 400px;
+    }
+
+    .testimonio3-img {
+        width: 282px;
+        height: 400px;
+    }
+
+    .testimonio4-img {
+        border-radius: 5px;
+        width: 282px;
+        height: 400px;
+    }
+
+    .testimonio5-img {
+        border-radius: 5px;
+        width: 282px;
+        height: 400px;
+    }
+
+    .testimonio6-img {
+        border-radius: 5px;
+        width: 282px;
+        height: 400px;
+    }
+
+}
+
+@media only screen and (max-width: 650px) {
+
+    .testimonio1-img {
+        width: 353px;
+        height: 500px;
+    }
+
+    .testimonio2-img {
+        width: 353px;
+        height: 500px;
+    }
+
+    .testimonio3-img {
+        width: 353px;
+        height: 500px;
+    }
+
+    .testimonio4-img {
+        border-radius: 5px;
+        width: 353px;
+        height: 500px;
+    }
+
+    .testimonio5-img {
+        border-radius: 5px;
+        width: 353px;
+        height: 500px;
+    }
+
+    .testimonio6-img {
+        border-radius: 5px;
+        width: 353px;
+        height: 500px;
+    }
+
+}
+
+@media only screen and (max-width: 550px) {
+
+    .title-testimonios {
+        margin-left: 20px;    
+        margin-right: 20px; 
+        font-size: 30px;
+    }
+    .testimonio1-img {
+        width: 282px;
+        height: 400px;
+    }
+
+    .testimonio2-img {
+        width: 282px;
+        height: 400px;
+    }
+
+    .testimonio3-img {
+        width: 282px;
+        height: 400px;
+    }
+
+    .testimonio4-img {
+        border-radius: 5px;
+        width: 282px;
+        height: 400px;
+    }
+
+    .testimonio5-img {
+        border-radius: 5px;
+        width: 282px;
+        height: 400px;
+    }
+
+    .testimonio6-img {
+        border-radius: 5px;
+        width: 282px;
+        height: 400px;
+    }
+}
