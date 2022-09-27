@@ -5,7 +5,7 @@ import Testimonio2 from './../../assets/testimonio2.png';
 import Testimonio3 from './../../assets/testimonio3.png';
 import Testimonio5 from './../../assets/testimonio4.png';
 import Testimonio4 from './../../assets/wpp-testimonio1.jpeg';
-import Testimonio6 from './../../assets/wp-testimonio6.jpeg';
+import Testimonio6 from './../../assets/wpp-testimonio7.jpeg';
 
 const Testimonios = () => {
     const [testimonioColumn, setTestimonioColumn] = useState(window.innerWidth < 1300 ? false : true)
