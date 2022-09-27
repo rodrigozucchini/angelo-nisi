@@ -50,7 +50,10 @@ const Bonus = () => {
     <div className="ebook">
         <h1 className="title-ebook">#BONUS 4 <br />Workbook</h1>   
         <img className="img-ebook" src={Mockupp}  />
-        <p className="ebook-text">Con el fin de mejorar la experiencia mientras vas desarrollando el programa vas a tener acceso a un documento profesional en PDF que contiene un resumen de todos los ejercicios prácticos que harás a lo largo del programa ordenados según los distintos módulos.</p>
+        <p className="ebook-text">Con el fin de mejorar la experiencia mientras vas desarrollando el programa vas a tener acceso a un documento profesional en PDF que contiene un resumen de todos los ejercicios prácticos que harás a lo largo del programa ordenados según los distintos módulos.<br />
+        <br />
+        Además del Workbook principal vas a recibir un libro de trabajo exclusivo para el módulo 3 del Programa, el cuál está diseñado para ser impreso y dejar registrado el estado de situación financiera completo.
+        </p>
     </div>
     </div>
   )

@@ -46,6 +46,9 @@
     color: red;
 }
 
+
+
+
 @media only screen and (max-width: 1430px) {
     .story {
         width: 100%;
