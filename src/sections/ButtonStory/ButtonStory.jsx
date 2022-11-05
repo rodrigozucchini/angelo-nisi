@@ -7,7 +7,7 @@ const ButtonStory = () => {
         <button className="button-bonus-1">
         Curso valuado en $499
         </button>
-        <a className="button-bonus-2" href="https://wa.link/2jm7er" target="_blank">
+        <a className="button-bonus-2" href="https://walink.co/e3f56e" target="_blank">
         Accede ahora por solo $199
         </a>
     </div>

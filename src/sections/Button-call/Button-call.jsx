@@ -4,7 +4,7 @@ import './Button-call.css';
 const Button = () => {
   return (
     <div className="button-div-call">
-        <a className="button-call" href="https://wa.link/2jm7er" target="_blank">
+        <a className="button-call" href="https://walink.co/e3f56e" target="_blank">
         ¡Quiero unirme al Programa ahora!
         </a>
     </div>
