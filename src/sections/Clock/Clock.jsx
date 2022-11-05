@@ -1,7 +1,7 @@
 import React,{ useState, useEffect } from 'react'
 import './Clock.css';
 
-const NEWS_YEARS_EVE = new Date(2022, 9, 31, 12, 0, 0);
+const NEWS_YEARS_EVE = new Date(2022, 11, 31, 12, 0, 0);
 
 const getTimedelta = () => {
 const now = new Date();

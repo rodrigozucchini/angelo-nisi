@@ -14,7 +14,7 @@ export const Planes = () => {
         </div>
         <div className="card">
             <h1 className="card-text">Segunda etapa</h1>
-            <p className="card-calendary">Del <b>01</b> de agosto de 2022 <br />al <b>30</b> de septiembre 2022</p>
+            <p className="card-calendary">Del <b>01</b> de agosto de 2022 <br />al <b>31</b> de octubre 2022</p>
             <p className="card-price">$147 USD</p>
             <div className="card-div-button">
                 <button className="card-button">PRECIO NO DISPONIBLE</button>
@@ -22,10 +22,10 @@ export const Planes = () => {
         </div>
         <div className="card-3">
             <h1 className="card-text-3">Tercera etapa</h1>
-            <p className="card-calendary">Del <b>01</b> de octubre 2022 <br />al <b>31</b> de octubre 2022</p>
+            <p className="card-calendary">Del <b>01</b> de noviembre 2022 <br />al <b>31</b> de diciembre 2022</p>
             <p className="card-price-yes-3">$199 USD</p>
             <div className="card-div-button">
-                <a className="card-button-yes-3" target="_blank" href="https://pay.hotmart.com/Y70033327T?off=7hted3u5">
+                <a className="card-button-yes-3" target="_blank" href="https://wa.link/2jm7er">
                     ¡Quiero unirme al Programa ahora!
                 </a>
             </div>

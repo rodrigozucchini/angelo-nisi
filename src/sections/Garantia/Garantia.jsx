@@ -18,7 +18,7 @@ const Garantia = () => {
             no tienes que dar justificaciones ni llenar complicados formularios con preguntas incómodas.
             </p>
             <div className="garantia-div-button">
-                <a className="garantia-button" href="https://pay.hotmart.com/Y70033327T?off=7hted3u5" target="_blank">
+                <a className="garantia-button" href="https://wa.link/2jm7er" target="_blank">
                   Quiero comprar de forma segura
                 </a>
             </div>
