@@ -23,7 +23,7 @@
   }
 
   .clock-div-text {
-    float: right;
+    float: center;
     margin-top: 10px;
     display: flex;
     flex-direction: column;

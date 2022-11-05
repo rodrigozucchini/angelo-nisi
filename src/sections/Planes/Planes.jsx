@@ -25,7 +25,7 @@ export const Planes = () => {
             <p className="card-calendary">Del <b>01</b> de noviembre 2022 <br />al <b>31</b> de diciembre 2022</p>
             <p className="card-price-yes-3">$199 USD</p>
             <div className="card-div-button">
-                <a className="card-button-yes-3" target="_blank" href="https://wa.link/2jm7er">
+                <a className="card-button-yes-3" target="_blank" href="https://walink.co/e3f56e">
                     ¡Quiero unirme al Programa ahora!
                 </a>
             </div>
