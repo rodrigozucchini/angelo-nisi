@@ -15,13 +15,20 @@ const Garantia = () => {
             <br />
             si por algún motivo no cumple tus expectativas puedes solicitar la devolución del 100% de tu dinero 
             <br />
-            no tienes que dar justificaciones ni llenar complicados formularios con preguntas incómodas.
+            no tienes que dar justificaciones ni llenar complicados formularios con preguntas incómodas <br />(SOLO APLICA PARA VENTAS REALIZADAS MEDIANTE HOTMART)
             </p>
             <div className="garantia-div-button">
                 <a className="garantia-button" href="https://walink.co/e3f56e" target="_blank">
                   Quiero comprar de forma segura
                 </a>
             </div>
+            <p className="garantia-text2">Este producto se comercializa con el apoyo de Hotmart. La plataforma no realiza un
+control editorial previo de los productos ofertados, ni evalúa el tecnicismo o la
+experiencia de quienes los elaboran. La existencia de un producto y su adquisición,
+a través de la plataforma, no puede considerarse garantía de calidad de contenido y
+resultado, en ningún caso. Al adquirirlo, el comprador declara conocer esta
+información. Puedes acceder a los términos y políticas de Hotmart aquí, incluso
+antes de finalizar la compra.</p>
         </div>
     </div>
   )

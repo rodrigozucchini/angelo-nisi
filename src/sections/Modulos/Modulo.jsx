@@ -317,7 +317,7 @@ const Modulos = () => {
                     controls
                     muted
                 />
-                <p className="modulos-yes-rest-video">Accede a más de 50 lecciones en vídeos que te harán libre financieramente (si las pones en práctica)</p>
+                <p className="modulos-yes-rest-video">ACCEDE HOY MISMO A MÁS DE 50 LECCIONES QUE TE AYUDARÁN A CREAR TU PROPIO PLAN FINANCIERO PERSONALIZADO PARA LOGRAR TU LIBERTAD FINANCIERA.</p>
             </span>
         </div>)
         :
@@ -330,7 +330,7 @@ const Modulos = () => {
                     controls
                     muted
                 />
-                <p className="modulos-yes-rest-video">Accede a más de 50 lecciones en vídeos que te harán libre financieramente (si las pones en práctica)</p>
+                <p className="modulos-yes-rest-video">ACCEDE HOY MISMO A MÁS DE 50 LECCIONES QUE TE AYUDARÁN A CREAR TU PROPIO PLAN FINANCIERO PERSONALIZADO PARA LOGRAR TU LIBERTAD FINANCIERA.</p>
             </span>
         </div>)
         }

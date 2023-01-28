@@ -3,7 +3,7 @@ import './Testimonios.css';
 import Testimonio1 from './../../assets/testimonio1.png';
 import Testimonio2 from './../../assets/testimonio2.png';
 import Testimonio3 from './../../assets/testimonio3.png';
-import Testimonio5 from './../../assets/testimonio4.png';
+import Testimonio8 from './../../assets/wp-testimonio8.png';
 import Testimonio4 from './../../assets/wpp-testimonio1.jpeg';
 import Testimonio6 from './../../assets/wpp-testimonio7.jpeg';
 
@@ -45,10 +45,10 @@ const Testimonios = () => {
                         <img src={Testimonio4} className="testimonio4-img" />
                 </div>
                 <div>
-                        <img src={Testimonio5} className="testimonio5-img" />
+                        <img src={Testimonio6} className="testimonio5-img" />
                 </div>
                 <div>
-                        <img src={Testimonio6} className="testimonio6-img" />
+                        <img src={Testimonio8} className="testimonio5-img" />
                 </div>
             </div>
     </>
@@ -66,13 +66,13 @@ const Testimonios = () => {
                     <img src={Testimonio3} className="testimonio3-img" />
                 </div>
                 <div>
-                    <img src={Testimonio5} className="testimonio5-img" />
+                    <img src={Testimonio6} className="testimonio6-img" />
                 </div>
                 <div>
                     <img src={Testimonio4} className="testimonio4-img" />
                 </div>
                 <div>
-                    <img src={Testimonio6} className="testimonio6-img" />
+                    <img src={Testimonio8} className="testimonio5-img" />
                 </div>
             </div>
     )

@@ -64,7 +64,20 @@ const PreguntasFrecuentes = () => {
             </span>
             { 
             action2 === true ? 
-                <p className="preguntas-frecuentes-yes-rest">En el link de pago vas a poder ver las diferentes opciones, si deseas contactarme al privado para hacer el pago podes hacerlo mediante el instagram de la comunidad “@emperador.financiero”. Se aceptan todos los medios de pago: Efectivo, Tarjeta de Crédito, Tarjeta de Débito, Transferencia Bancaria, Criptomonedas y PayPal.</p>
+                <p className="preguntas-frecuentes-yes-rest">Al dar clic sobre algunos de los botones de compra que puedes visualizar a lo largo
+                de la página, la misma te redireccionará hacia mi contacto de WhatsApp personal,
+                de esta manera podremos personalizar el método de pago para encontrar cuál es la
+                mejor opción para ambos. En cada país las comisiones por IVA y diversos
+                impuestos son diferentes, por este motivo elijo tomarme el tiempo de hacerlo
+                personalizado, <b>así te puedes ahorrar hasta un 21% al realizar la compra.</b> <br /><br />
+                En caso de que no funcione el link, puedes hablarme directamente al Instagram de
+                la comunidad @emperador.financiero.<br /><br />
+                Se aceptan todos los medios de pago, efectivo mediante Western Union, tarjeta de
+                crédito, tarjeta de débito, transferencia bancaria (dependiendo el país), PayPal y
+                Criptomonedas.<br /><br /><br />
+                (El texto que dice “así te puedes ahorrar hasta un 21% al realizar la compra ponerlo
+                en negrita)
+                </p>
             :
                 null
             }
@@ -97,7 +110,19 @@ const PreguntasFrecuentes = () => {
             </span>
             { 
             action5 === true ? 
-                <p className="preguntas-frecuentes-yes-rest"> La metodología del curso es online, así que vas a poder acceder al contenido y verlo cuando desees, a tu propio tiempo.</p>
+                <p className="preguntas-frecuentes-yes-rest">LA METODOLOGÍA DEL PROGRAMA ES 100% ONLINE, ESTO
+                SIGNIFICA QUE VAS A PODER ACCEDER AL CONTENIDO Y VERLO CUANDO
+                DESEES, A TU PROPIO RITMO.<br /><br />
+                ES IMPORTANTE ACLARAR QUE EL PROGRAMA ESTÁ DISEÑADO CON EL FIN
+                DE PODER DEDICARLE SOLAMENTE 2 HORAS CADA SEMANA, ES DECIR,
+                ESTUDIAR 1 MÓDULO POR SEMANA DURANTE LOS PRÓXIMOS 3 MESES.
+                CASI TODOS TENEMOS 2 HORAS PARA DEDICARLE A NUESTRO
+                CRECIMIENTO PERSONAL Y FINANCIERO.<br /><br />
+                ADEMÁS, RECIENTEMENTE DECIDÍ CREAR UN GRUPO PRIVADO PARA LOS
+                ALUMNOS CON EL FIN DE MANTENER UNA COMUNICACIÓN ACTIVA Y
+                APORTARNOS VALOR ENTRE TODOS PARA LOGRAR MEJORAR NUESTROS
+                RESULTADOS.
+                </p>
             :
                 null
             }
@@ -119,7 +144,12 @@ const PreguntasFrecuentes = () => {
             </span>
             { 
             action7 === true ? 
-                <p className="preguntas-frecuentes-yes-rest">La duración total entre los 8 videos es de 5 horas.</p>
+                <p className="preguntas-frecuentes-yes-rest">ACTUALMENTE, EL PROGRAMA CUENTA CON MÁS DE 11
+                HORAS DE CONTENIDO GRABADO CON UNA GRAN CALIDAD DE AUDIO Y
+                VIDEO, 3 EXCELS COMO HERRAMIENTAS PRÁCTICAS Y 2 WORKBOOKS DE
+                TRABAJO. <br /> <br />
+                PRÓXIMAMENTE, SE AÑADIRÁN DIFERENTES ACTUALIZACIONES JUNTO
+                CON NUEVO CONTENIDO DE ALTÍSIMO VALOR.</p>
             :
                 null
             }
@@ -130,7 +160,13 @@ const PreguntasFrecuentes = () => {
             </span>
             { 
             action8 === true ? 
-                <p className="preguntas-frecuentes-yes-rest">Sí, en el primer video del curso vas a poder encontrar el link de acceso a nuestro Telegram privado que tenemos exclusivamente para los alumnos del curso. Ahí vas a poder plantear tus dudas y todas las preguntas que te surjan para que te podamos ayudar.</p>
+                <p className="preguntas-frecuentes-yes-rest">CLARO QUE SÍ, UNA VEZ REALIZADA LA COMPRA Y A LO
+                LARGO DEL MÓDULO DE INTRODUCCIÓN, ENCONTRARÁS ACCESO A UN
+                LINK QUE TE REDIRECCIONARÁ HACIA UN GRUPO EXCLUSIVO PARA LOS
+                CLIENTES DEL PROGRAMA. ALLÍ MISMO PODRÁS PLANTEAR LAS DUDAS Y
+                PREGUNTAS QUE TE SURJAN.<br /> <br />
+                ADEMÁS, CONTARÁS CON UN SEGUIMIENTO PERSONALIZADO CON ANGELO
+                DURANTE LOS 90 DÍAS QUE ESTARÁS REALIZANDO EL PROGRAMA.</p>
             :
                 null
             }

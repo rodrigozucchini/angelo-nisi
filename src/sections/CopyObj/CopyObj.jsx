@@ -12,7 +12,7 @@ const CopyObj = () => {
         El principal obstáculo suele ser que <b>más del 90% improvisa con sus finanzas en el día a día y no tienen un plan financiero sencillo, práctico y sostenible en el tiempo</b> que les permita enfocarse en generar ventas sabiendo que tienen un sistema para manejar su dinero rápido y efectivamente.
         <br />
         <br />
-        <b>Así que tanto si eres Freelance (ofreciendo servicios de cualquier tipo), Networker, vendedor a comisión </b>o cualquier otro tipo de emprendedor digital, dejame decirte que tengo una oferta muy especial para compartirte.
+        <b>Así que tanto si eres Freelancer (ofreciendo servicios de cualquier tipo), Networker, vendedor a comisión </b>o cualquier otro tipo de emprendedor digital, dejame decirte que tengo una oferta muy especial para compartirte.
     </p>
     <div>
         <h1 className='primer-pregunta'>¿Cómo sé si la oferta es para mí?</h1>
@@ -50,7 +50,9 @@ const CopyObj = () => {
             <br />
             <b>No necesitas</b> estar ganando miles de dólares al mes para comenzar tu plan.
             <br />
-            <b>No necesitas</b> hacer el pago de una, te doy la posibilidad de dividir el total en 3 cuotas.
+            <b>No necesitas</b> completar el coste total en un solo pago, te puedo dar
+la posibilidad de un plan de pagos si me contactas al privado. Solo debes dar clic en
+alguno de los botones de compra con fondo verde que están en la página.
         </p>
         <h1 className='segunda-pregunta'>¿Sabes que sí necesitas?</h1>
         <p className='quinto-copy'>

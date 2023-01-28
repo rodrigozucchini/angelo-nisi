@@ -17,10 +17,10 @@ const Storytelling = () => {
                 En el año 2019 comencé mi camino emprendiendo dentro de la industria del Network Marketing (en el rubro del turismo) y me estaba yendo bien hasta que llegó la pandemia y me di cuenta de algo que generó un shock en mí.
                 <br />
                 <br />
-                Con la pandemia vi cómo cientos de organizaciones y empresas se caían a pedazos y cómo emprendedores que ganaban buen dinero y parecían ser "estables" terminaban en $0, arruinados.
+                Con la llegada de la pandemia, pude ver como cientos de organizaciones dentro de la industria del Network Marketing y diferentes pequeños negocios de distintos rubros que parecían estar “estables” se terminaban fundiendo y yendo a la quiebra.
                 <br />
                 <br />
-                Con los meses descubrí que <b>¡más del 90%! de los emprendedores digitales a día de hoy IMPROVISAN con sus finanzas en el día a día, esto es un error garrafal,</b> y que cuesta muy caro.
+                Con los meses descubrí que <b>¡MÁS DEL 90%! de los emprendedores digitales a día de hoy IMPROVISAN con sus finanzas en el día a día, esto es un error garrafal,</b> y que cuesta muy caro.
                 <br />
                 <br />
                 Lamento ser yo quién te lo diga, pero <b>no todos van a lograr la libertad financiera, y mucho menos si no crean un plan específico y adaptado a su situación personal </b>que les aclare el camino y evite que cometan los siguientes errores. 
@@ -47,13 +47,17 @@ const Storytelling = () => {
                 Así nació lo que hoy es el <b>Programa de Transformación Financiera,</b> más de 1 año de trabajo, estudio e investigación con el fin de crear <b>el programa más completo, práctico y eficiente que jamás hubiera existido.</b>
                 <br />
                 <br />
-                Puede que todo esto te suene a inversión de cientos de dólares, pero para que el precio no sea un impedimento, quiero invitarte a una <b>gran oferta de lanzamiento</b> (hasta el 31/10/2022) del Programa de Transformación Financiera, <b>valuado en $797 USD </b>pero no te voy a cobrar eso, sólo te voy a cobrar $199 USD.
+                Seguramente estás pensando que deberías invertir miles de dólares para aprender a crear ese plan financiero que te menciono. <br />La buena noticia es que yo ya pasé por ese proceso y hoy te brindo la posibilidad de acceder a una <b>OFERTA EXCLUSIVA</b> que te permitirá no solo cientos de dólares sino también mucho tiempo, ya que tendrás todo el contenido curado y paso a paso listo para aplicar.
                 <br />
                 <br />
                 <b> PD 1:</b> Cada día que te levantas y sales a trabajar sin tener un plan claro es equivalente a estar en un velero en el medio de una tormenta en el mar sin saber donde ir, por mucho que te esfuerces no sabes por dónde ir para llegar a tierra firme.
                 <br />
                 <br />
                 <b> PD 2:</b> Te comparto las palabras de algunos clientes que ya forman parte de la comunidad y se sumaron a la visión de ayudar a educar financieramente al mundo.
+                <br />
+                <br />
+                <b> PD 3:</b> Este Programa está diseñado con el fin de explicar los diferentes métodos para administrar correctamente nuestro dinero. A su vez, no se enfoca en enseñar Landing Page 5 los distintos instrumentos financieros, ni cómo realizar análisis técnico o fundamental.
+
             </p>
         </span>
     </div>
