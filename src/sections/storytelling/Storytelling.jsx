@@ -47,7 +47,7 @@ const Storytelling = () => {
                 Así nació lo que hoy es el <b>Programa de Transformación Financiera,</b> más de 1 año de trabajo, estudio e investigación con el fin de crear <b>el programa más completo, práctico y eficiente que jamás hubiera existido.</b>
                 <br />
                 <br />
-                Seguramente estás pensando que deberías invertir miles de dólares para aprender a crear ese plan financiero que te menciono. <br />La buena noticia es que yo ya pasé por ese proceso y hoy te brindo la posibilidad de acceder a una <b>OFERTA EXCLUSIVA</b> que te permitirá no solo cientos de dólares sino también mucho tiempo, ya que tendrás todo el contenido curado y paso a paso listo para aplicar.
+                Seguramente estás pensando que deberías invertir miles de dólares para aprender a crear ese plan financiero que te menciono. <br />La buena noticia es que yo ya pasé por ese proceso y hoy te brindo la posibilidad de acceder a una <b>OFERTA EXCLUSIVA</b> que te permitirá no solo <b>AHORRAR</b> cientos de dólares sino también mucho tiempo, ya que tendrás todo el contenido curado y paso a paso listo para aplicar.
                 <br />
                 <br />
                 <b> PD 1:</b> Cada día que te levantas y sales a trabajar sin tener un plan claro es equivalente a estar en un velero en el medio de una tormenta en el mar sin saber donde ir, por mucho que te esfuerces no sabes por dónde ir para llegar a tierra firme.
@@ -56,7 +56,7 @@ const Storytelling = () => {
                 <b> PD 2:</b> Te comparto las palabras de algunos clientes que ya forman parte de la comunidad y se sumaron a la visión de ayudar a educar financieramente al mundo.
                 <br />
                 <br />
-                <b> PD 3:</b> Este Programa está diseñado con el fin de explicar los diferentes métodos para administrar correctamente nuestro dinero. A su vez, no se enfoca en enseñar Landing Page 5 los distintos instrumentos financieros, ni cómo realizar análisis técnico o fundamental.
+                <b> PD 3:</b> Este Programa está diseñado con el fin de explicar los diferentes métodos para administrar correctamente nuestro dinero. A su vez, no se enfoca en enseñar los distintos instrumentos financieros, ni cómo realizar análisis técnico o fundamental.
 
             </p>
         </span>

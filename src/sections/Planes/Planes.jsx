@@ -32,7 +32,7 @@ export const Planes = () => {
         </div>
         <p className="card-mensaje">
         A partir del 1 de Mayo del 2023 el precio del Programa pasará a ser
-de <b>$450 USD </b>y nunca más volverás a bajar su precio. Aprovecha ahora y ahorra
+de <b>$450 USD </b>y nunca más volverá a bajar su precio. Aprovecha ahora y ahorra
 <b> $100 USD </b>antes de que sea tarde.
         </p>
     </div>

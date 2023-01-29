@@ -58,6 +58,13 @@
     font-weight: 500;
 }
 
+.preguntas-a {
+    color: black;
+    font-size: 14px;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
 @media only screen and (max-width: 1205px) {
     .preguntas-frecuentes-h1 {
         font-size: 40px;

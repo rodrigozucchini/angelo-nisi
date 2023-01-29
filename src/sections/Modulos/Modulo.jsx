@@ -289,7 +289,7 @@ const Modulos = () => {
             </span>
             { 
             action12 === true ? 
-                <p className="modulos-yes-rest">El contenido del módulo 11 se desbloqueará el 10/12/2022</p>
+                <p className="modulos-yes-rest">El contenido del módulo 11 se desbloqueará próximamente.</p>
             :
                 null
             }
@@ -300,7 +300,7 @@ const Modulos = () => {
             </span>
             { 
             action13 === true ? 
-                <p className="modulos-yes-rest">El contenido del módulo 12 se desbloqueará el 10/12/2022</p>
+                <p className="modulos-yes-rest">El contenido del módulo 12 se desbloqueará próximamente.</p>
             :
                 null
             }

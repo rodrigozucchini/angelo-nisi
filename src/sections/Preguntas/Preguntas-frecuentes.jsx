@@ -71,12 +71,10 @@ const PreguntasFrecuentes = () => {
                 impuestos son diferentes, por este motivo elijo tomarme el tiempo de hacerlo
                 personalizado, <b>así te puedes ahorrar hasta un 21% al realizar la compra.</b> <br /><br />
                 En caso de que no funcione el link, puedes hablarme directamente al Instagram de
-                la comunidad @emperador.financiero.<br /><br />
+                la comunidad <a className="preguntas-a" target="_blank" href="https://www.instagram.com/emperador.financiero/?igshid=YmMyMTA2M2Y%3D">@emperador.financiero.</a><br /><br />
                 Se aceptan todos los medios de pago, efectivo mediante Western Union, tarjeta de
                 crédito, tarjeta de débito, transferencia bancaria (dependiendo el país), PayPal y
-                Criptomonedas.<br /><br /><br />
-                (El texto que dice “así te puedes ahorrar hasta un 21% al realizar la compra ponerlo
-                en negrita)
+                Criptomonedas.<br />
                 </p>
             :
                 null
@@ -113,8 +111,8 @@ const PreguntasFrecuentes = () => {
                 <p className="preguntas-frecuentes-yes-rest">LA METODOLOGÍA DEL PROGRAMA ES 100% ONLINE, ESTO
                 SIGNIFICA QUE VAS A PODER ACCEDER AL CONTENIDO Y VERLO CUANDO
                 DESEES, A TU PROPIO RITMO.<br /><br />
-                ES IMPORTANTE ACLARAR QUE EL PROGRAMA ESTÁ DISEÑADO CON EL FIN
-                DE PODER DEDICARLE SOLAMENTE 2 HORAS CADA SEMANA, ES DECIR,
+                ES IMPORTANTE ACLARAR QUE <b>EL PROGRAMA ESTÁ DISEÑADO CON EL FIN
+                DE PODER DEDICARLE SOLAMENTE 2 HORAS CADA SEMANA</b>, ES DECIR,
                 ESTUDIAR 1 MÓDULO POR SEMANA DURANTE LOS PRÓXIMOS 3 MESES.
                 CASI TODOS TENEMOS 2 HORAS PARA DEDICARLE A NUESTRO
                 CRECIMIENTO PERSONAL Y FINANCIERO.<br /><br />
